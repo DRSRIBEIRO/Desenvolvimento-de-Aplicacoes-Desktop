@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace TrocaDeValores
 {
-    public partial class Form1 : Form
+    public partial class frmTrocaDeValores : Form
     {
-        public Form1()
+        public frmTrocaDeValores()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
