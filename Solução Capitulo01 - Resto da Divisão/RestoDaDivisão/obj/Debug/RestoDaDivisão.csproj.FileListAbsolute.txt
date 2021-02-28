@@ -1,0 +1,10 @@
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.csprojAssemblyReference.cache
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.Properties.Resources.resources
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.csproj.GenerateResource.cache
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.csproj.CoreCompileInputs.cache
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\bin\Debug\RestoDaDivisão.exe.config
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\bin\Debug\RestoDaDivisão.exe
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\bin\Debug\RestoDaDivisão.pdb
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.exe
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.pdb
+C:\GitHub\Desenvolvimento-de-Aplicacoes-Desktop\SolucaoCapitulo01-RestoDaDivisão\RestoDaDivisão\obj\Debug\RestoDaDivisão.frmRestoDeDivisao.resources
